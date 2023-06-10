@@ -1,7 +1,6 @@
 # Resume
 ## Education
-### Bachelor of Science in Computer Science
-#### Purdue University, West Lafayette, IN - May 2019
+### BS in Computer Science - Purdue University, West Lafayette, IN - May 2019
 - **GPA**: 3.87 / 4.00
 - **Minors**: Math, Spanish
 - **Scholarships**: Trustee, Boeing, Grub, Edmond and Mary Henelt Scholarships
