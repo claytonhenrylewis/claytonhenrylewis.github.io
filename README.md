@@ -1,6 +1,6 @@
-# Education
-## <span>Bachelor of Science in Computer Science</span> <span>May 2019</span>
-### Purdue University, West Lafayette, IN	           
+## Education
+### Bachelor of Science in Computer Science <div style="text-align: right"> May 2019 </div>
+#### Purdue University, West Lafayette, IN	           
 - Minors in Math, Spanish
 - GPA: 3.87 / 4.00
 - Dean’s List
