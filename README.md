@@ -6,6 +6,7 @@
 - **Scholarships**: Trustee, Boeing, Grub, Edmond and Mary Henelt Scholarships
 - **Student Leadership**: Boiler Gold Rush (orientation), Cru (ministry)
 - Dean’s List
+
 ## Work Experience
 ### Application Developer  |  Kelley School of Business, Indiana University, Bloomington, IN  |  May 2020 – Present
 - Design, develop and maintain web applications to support student engagement and faculty/staff efficiency
