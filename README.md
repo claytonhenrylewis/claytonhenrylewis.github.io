@@ -1,6 +1,6 @@
 # Resume
 ## EDUCATION
-### BS in Computer Science  |  Purdue University, West Lafayette, IN  |  May 2019
+### BS in Computer Science  |  May 2019 <br> Purdue University, West Lafayette, IN
 - **GPA**: 3.87 / 4.00
 - **Minors**: Math, Spanish
 - **Scholarships**: Trustee, Boeing, Grub, Edmond and Mary Henelt Scholarships
@@ -14,25 +14,25 @@
 - Provide guidance to other developers and make architecture decisions as technical lead for several projects, improving maintainability and response time
 - Guide cross-functional team retrospective sessions, capturing insights and translating them into actionable improvement strategies, fostering a culture of continuous growth
 
-### Software Developer  |  Epic Systems, Verona, WI  |  Aug 2019 – April 2020
+### Software Developer  |  Aug 2019 – April 2020 <br> Epic Systems, Verona, WI 
 - Designed, developed and tested software to empower clinicians and others to provide better health care
 - Delivered high-quality software solutions within demanding project schedules
 
-### Training Coordinator  |  Information Technology, Purdue University, West Lafayette, IN  |  Aug 2018 – May 2019
+### Training Coordinator  |  Aug 2018 – May 2019 <br> Information Technology, Purdue University, West Lafayette, IN
 - Mentored student software trainers in workshop facilitation skills, increasing customer satisfaction
 - Improved content and presentation of software workshops to better serve students and faculty
 
-### TechStart Intern  |  Liberty Mutual Insurance, Fairfield, OH  |  Summer 2018
+### TechStart Intern  |  Summer 2018 <br> Liberty Mutual Insurance, Fairfield, OH
 - Implemented enhancements to a web application on an agile team
 
-### Student Software Trainer  |  Information Technology, Purdue University, West Lafayette, IN  |  Sept 2016 – May 2018
+### Student Software Trainer  |  Sept 2016 – May 2018 <br> Information Technology, Purdue University, West Lafayette, IN
 - Trained clients on professional software packages through live workshops and individual consultations
 - Provided instruction for complex tasks in everyday terms for students, faculty and professional staff
 
-### International Volunteer  |  Freedom International Ministries, Dominican Republic  |  Summer 2017
+### International Volunteer  |  Summer 2017 <br> Freedom International Ministries, Dominican Republic
 - Taught bilingual elementary classes and coordinated team construction projects 
 
-### IT Specialist Intern  |  IBM, Chicago, IL  |  Summer 2016
+### IT Specialist Intern  |  Summer 2016 <br> IBM, Chicago, IL
 - Shadowed technical sales representatives and implemented automated application testing
 
 ## SKILLS
