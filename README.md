@@ -18,6 +18,7 @@
 - Collaborate with project managers to transform present and future needs of clients into tangible solutions
 - Provide guidance to other developers and make architecture decisions as technical lead for several applications, improving maintainability and response time
 - Guide cross-functional team retrospective sessions, capturing insights and translating them into actionable improvement strategies, fostering a culture of continuous growth
+- Mentor new team members, helping them build skills and consistently deliver solutions
 
 ### Software Developer  |  Aug 2019 – April 2020 <br> Epic Systems, Verona, WI 
 - Designed, developed and tested software to empower clinicians and others to provide better health care
