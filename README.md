@@ -1,4 +1,7 @@
 # Resume
+
+---
+
 ## EDUCATION
 ### BS in Computer Science  |  May 2019 <br> Purdue University, West Lafayette, IN
 - **GPA**: 3.87 / 4.00
@@ -6,6 +9,8 @@
 - **Scholarships**: Trustee, Boeing, Grub, Edmond and Mary Henelt Scholarships
 - **Student Leadership**: Boiler Gold Rush (orientation), Cru (ministry)
 - Dean’s List
+
+---
 
 ## WORK EXPERIENCE
 ### Application Developer  |  May 2020 – Present <br> Kelley School of Business, Indiana University, Bloomington, IN
@@ -34,6 +39,8 @@
 
 ### IT Specialist Intern  |  Summer 2016 <br> IBM, Chicago, IL
 - Shadowed technical sales representatives and implemented automated application testing
+
+---
 
 ## SKILLS
 - **Project Management Strategies**: Agile, Scrum
