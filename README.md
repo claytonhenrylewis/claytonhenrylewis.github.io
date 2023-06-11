@@ -1,5 +1,5 @@
 # Resume
-I am a software developer looking to take my experience planning and building solutions and grow into a new role managing awesome projects. I love tabletop games and Heroscape chief among them. I've played competitively at various levels, been involved in the online community, and organized local tournaments. I care a lot about the success of the game and the community that plays it. I would be excited and honored to contribute in tangible ways to the success of the next generation of Heroscape through creative problem solving, process improvement, and adaptability.
+I am a software developer looking to take my experience planning and building solutions and grow into a new role managing awesome projects. I love playing and playtesting tabletop games, Heroscape chief among them. I've played competitively at various levels, been involved in the online community, and organized local tournaments. I care a lot about the success of the game and the community that plays it. I would be excited and honored to contribute in tangible ways to the success of the next generation of Heroscape through creative problem solving, process improvement, and adaptability.
 
 ---
 
