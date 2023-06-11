@@ -8,7 +8,7 @@
 - Dean’s List
 
 ## WORK EXPERIENCE
-### Application Developer  |  Kelley School of Business, Indiana University, Bloomington, IN  |  May 2020 – Present
+### Application Developer  |  May 2020 – Present <br> Kelley School of Business, Indiana University, Bloomington, IN
 - Design, develop and maintain web applications to support student engagement and faculty/staff efficiency
 - Collaborate with project managers to transform present and future needs of clients into tangible solutions
 - Provide guidance to other developers and make architecture decisions as technical lead for several projects, improving maintainability and response time
