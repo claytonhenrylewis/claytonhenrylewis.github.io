@@ -1,4 +1,5 @@
 # Resume
+I am a software developer looking to take my experience planning and building solutions and grow into a new role managing awesome projects. I love tabletop games and Heroscape chief among them. I've played competitively at various levels, been involved in the online community, and organized local tournaments. I care a lot about the success of the game and the community that plays it. I would be excited and honored to contribute in tangible ways to the success of the next generation of Heroscape through creative problem solving, process improvement, and adaptability.
 
 ---
 
@@ -6,8 +7,6 @@
 ### BS in Computer Science  |  May 2019 <br> Purdue University, West Lafayette, IN
 - **GPA**: 3.87 / 4.00
 - **Minors**: Math, Spanish
-- **Scholarships**: Trustee, Boeing, Grub, Edmond and Mary Henelt Scholarships
-- **Student Leadership**: Boiler Gold Rush (orientation), Cru (ministry)
 - Dean’s List
 
 ---
@@ -19,6 +18,9 @@
 - Provide guidance to other developers and make architecture decisions as technical lead for several applications, improving maintainability and response time
 - Guide cross-functional team retrospective sessions, capturing insights and translating them into actionable improvement strategies, fostering a culture of continuous growth
 - Mentor new team members, helping them build skills and consistently deliver solutions
+
+### Rental Property Owner/Manager  |  March 2021 - Present
+- Maintain quality affordable housing while budgeting and managing expenses
 
 ### Software Developer  |  Aug 2019 – April 2020 <br> Epic Systems, Verona, WI 
 - Designed, developed and tested software to empower clinicians and others to provide better health care
@@ -35,16 +37,10 @@
 - Trained clients on professional software packages through live workshops and individual consultations
 - Provided instruction for complex tasks in everyday terms for students, faculty and professional staff
 
-### International Volunteer  |  Summer 2017 <br> Freedom International Ministries, Dominican Republic
-- Taught bilingual elementary classes and coordinated team construction projects 
-
-### IT Specialist Intern  |  Summer 2016 <br> IBM, Chicago, IL
-- Shadowed technical sales representatives and implemented automated application testing
-
 ---
 
 ## SKILLS
-- **Project Management Strategies**: Agile, Scrum
+- **Project Management Strategies**: Agile, Scrum, Kanban
 - **Project Management Software**: Jira, Asana, Trello
 - **Web Development Software**: Visual Studio, ASP.NET, Squarespace, Wix
 - **General Software**: Adobe Creative Suite, Office, Teams, Slack, Discord
