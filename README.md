@@ -19,7 +19,7 @@ I am a software developer looking to take my experience planning and building so
 - Guide cross-functional team retrospective sessions, capturing insights and translating them into actionable improvement strategies, fostering a culture of continuous growth
 - Mentor new team members, helping them build skills and consistently deliver solutions
 
-### Rental Property Owner/Manager  |  March 2021 - Present
+### Rental Property Owner/Manager  |  March 2021 - Present <br> Bloomington, IN
 - Maintain quality affordable housing while budgeting and managing expenses
 
 ### Software Developer  |  Aug 2019 – April 2020 <br> Epic Systems, Verona, WI 
