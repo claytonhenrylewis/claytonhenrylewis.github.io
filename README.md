@@ -1,5 +1,5 @@
 # Resume
-I am a software developer looking to take my experience planning and building solutions and grow into a new role managing awesome projects. I love playing and playtesting tabletop games, Heroscape chief among them. I've played competitively at various levels, been involved in the online community, and organized local tournaments. I care a lot about the success of the game and the community that plays it. I would be excited and honored to contribute in tangible ways to the success of the next generation of Heroscape through creative problem solving, process improvement, and adaptability.
+I am a software developer looking to take my experience planning and building solutions and grow into a new role managing awesome projects. I love playing and playtesting tabletop games, Heroscape chief among them. I've played Heroscape competitively at various levels, been involved in the online community, and organized local tournaments. I care a lot about the success of the game and the community that plays it. I would be excited and honored to contribute in tangible ways to the success of the next generation of Heroscape through creative problem solving, process improvement, and adaptability.
 
 ---
 
@@ -30,9 +30,6 @@ I am a software developer looking to take my experience planning and building so
 - Mentored student software trainers in workshop facilitation skills, increasing customer satisfaction
 - Improved content and presentation of software workshops to better serve students and faculty
 
-### TechStart Intern  |  Summer 2018 <br> Liberty Mutual Insurance, Fairfield, OH
-- Implemented enhancements to a web application on an agile team
-
 ### Student Software Trainer  |  Sept 2016 – May 2018 <br> Information Technology, Purdue University, West Lafayette, IN
 - Trained clients on professional software packages through live workshops and individual consultations
 - Provided instruction for complex tasks in everyday terms for students, faculty and professional staff
@@ -41,7 +38,7 @@ I am a software developer looking to take my experience planning and building so
 
 ## SKILLS
 - **Project Management Strategies**: Agile, Scrum, Kanban
-- **Project Management Software**: Jira, Asana, Trello
+- **Project Management Software**: Asana, Trello, Jira
 - **Web Development Software**: Visual Studio, ASP.NET, Squarespace, Wix
-- **General Software**: Adobe Creative Suite, Office, Teams, Slack, Discord
+- **General Software**: Adobe Creative Suite, Office, Slack, Discord, Teams
 - **Programming Languages**: C, C#, C++, Java, Python, JavaScript, TypeScript, HTML, CSS, Visual Basic, ARM Assembly, MATLAB
