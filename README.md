@@ -19,9 +19,6 @@ I am a software developer looking to take my experience planning and building so
 - Guide cross-functional team retrospective sessions, capturing insights and translating them into actionable improvement strategies, fostering a culture of continuous growth
 - Mentor new team members, helping them build skills and consistently deliver solutions
 
-### Rental Property Owner/Manager  |  March 2021 - Present <br> Bloomington, IN
-- Maintain quality affordable housing while budgeting and managing expenses
-
 ### Software Developer  |  Aug 2019 – April 2020 <br> Epic Systems, Verona, WI 
 - Designed, developed and tested software to empower clinicians and others to provide better health care
 - Delivered high-quality software solutions within demanding project schedules
@@ -42,3 +39,14 @@ I am a software developer looking to take my experience planning and building so
 - **Web Development Software**: Visual Studio, ASP.NET, Squarespace, Wix
 - **General Software**: Adobe Creative Suite, Office, Slack, Discord, Teams
 - **Programming Languages**: C, C#, C++, Java, Python, JavaScript, TypeScript, HTML, CSS, Visual Basic, ARM Assembly, MATLAB
+
+---
+
+## OTHER EXPERIENCE
+### Rental Property Owner/Manager  |  March 2021 - Present <br> Bloomington, IN
+- Maintain quality affordable housing while budgeting and managing expenses
+
+### International Volunteer  |  Summer 2017 <br> Freedom International Ministries, Dominican Republic
+- Taught bilingual elementary classes and coordinated team construction projects 
+
+---
