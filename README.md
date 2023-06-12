@@ -37,7 +37,6 @@ I am a software developer looking to take my experience planning and building so
 - **Project Management Software**: Asana, Trello, Jira
 - **Web Development Software**: Squarespace, Wix, Visual Studio, ASP.NET
 - **General Software**: Adobe Creative Suite, Office, Slack, Discord, Teams
-- **Programming Languages**: C, C#, C++, Java, Python, JavaScript, TypeScript, HTML, CSS, Visual Basic, ARM Assembly, MATLAB
 
 ---
 
