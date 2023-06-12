@@ -16,7 +16,7 @@ I am a software developer looking to take my experience planning and building so
 - Design, develop and maintain web applications to support student engagement and faculty efficiency
 - Collaborate with project managers to transform present and future needs of clients into tangible solutions
 - Provide guidance to other developers and make architecture decisions as technical lead for several applications, improving maintainability and response time
-- Guide cross-functional team retrospective sessions, capturing insights and translating them into actionable improvement strategies, fostering a culture of continuous growth
+- Lead cross-functional team retrospective sessions, capturing insights and translating them into actionable improvement strategies, fostering a culture of continuous growth
 - Mentor new team members, helping them build skills and consistently deliver solutions
 
 ### Software Developer  |  Aug 2019 – April 2020 <br> Epic Systems, Verona, WI 
@@ -36,7 +36,7 @@ I am a software developer looking to take my experience planning and building so
 ## SKILLS
 - **Project Management Strategies**: Agile, Scrum, Kanban
 - **Project Management Software**: Asana, Trello, Jira
-- **Web Development Software**: Visual Studio, ASP.NET, Squarespace, Wix
+- **Web Development Software**: Squarespace, Wix, Visual Studio, ASP.NET
 - **General Software**: Adobe Creative Suite, Office, Slack, Discord, Teams
 - **Programming Languages**: C, C#, C++, Java, Python, JavaScript, TypeScript, HTML, CSS, Visual Basic, ARM Assembly, MATLAB
 
